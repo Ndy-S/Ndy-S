@@ -1,16 +1,19 @@
-<h2>Hello, I'm Hendy!</h2>
-
-<a href="https://github.com/Ndy-S">
-  <img src="https://img.shields.io/badge/-ndys-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub Badge">
-</a>
-<a href="https://www.linkedin.com/in/hendy-saputra-20b00424b/">
-  <img src="https://img.shields.io/badge/-hendy%20saputra-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-</a>
-<a href="mailto:hendy.sg02@gmail.com">
-  <img src="https://img.shields.io/badge/-hendy.sg02@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="Email Badge">
-</a>
-
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="programming" width="280">
+<div align="center">
+  <h2>Hello, I'm Hendy!</h2>
+  
+  <a href="https://github.com/Ndy-S">
+    <img src="https://img.shields.io/badge/-ndys-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/hendy-saputra-20b00424b/">
+    <img src="https://img.shields.io/badge/-hendy%20saputra-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+  </a>
+  <a href="mailto:hendy.sg02@gmail.com">
+    <img src="https://img.shields.io/badge/-hendy.sg02@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <br>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="programming">
+  <p><i>"Code, code, and code!"</i></p>
+</div>
 
 A full-stack software developer who loves exploring new things and constantly expanding my skill set. Currently, I am developing a <a href="https://discord.js.org/">Discord bot</a> for RPG games and diving into exciting topics such as <a href="https://en.wikipedia.org/wiki/Deep_learning">deep learning</a>, and <a href="https://en.wikipedia.org/wiki/Computer_vision">computer vision</a>. Feel free to connect with me on <a href="https://www.linkedin.com/in/hendy-saputra-20b00424b/">LinkedIn</a> or reach out via [email](mailto:hendy.sg02@gmail.com)!
 
